@@ -1,5 +1,5 @@
-# AWS NAT Instance Setup (Amazon Linux 2023)
-
+# AWS NAT Instance Setup 
+**Note:** This setup is in Amazon Linux 2023, but you can use any other 'os' but the networking forward commands might be differnet.
 This document explains how to configure an **EC2 NAT Instance** using **Amazon Linux 2023** so that instances in a **private subnet** can access the internet.
 
 ---
